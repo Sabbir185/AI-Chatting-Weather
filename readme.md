@@ -1,7 +1,7 @@
 ## ⚡ AI Streaming Chat + Tool Calling (Weather) 🌦️
-```text
+
 AI chat powered by open-source models, with streaming responses and function/tool calling to fetch live weather data.
-```
+
 
 🧠 AI-Powered Chat
 Runs on open-source LLMs via Ollama for full local control.
